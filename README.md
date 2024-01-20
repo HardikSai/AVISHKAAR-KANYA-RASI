@@ -1,1 +1,3 @@
 # AVISHKAAR-KANYA-RASI
+
+Github repo for AVISHKAAR 2024 Hackathon
